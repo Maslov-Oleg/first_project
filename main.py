@@ -11,4 +11,5 @@ b = 15
 summ_ab = a+b
 print(f"\nСумма переменных a и b = {summ_ab}")
 
+print("О проекте:")
 author()
