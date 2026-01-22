@@ -1,0 +1,3 @@
+*.log
+logs/*
+!critical_errors.log
